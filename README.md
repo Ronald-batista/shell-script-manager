@@ -11,7 +11,7 @@
 
 ## Enunciado completo do script
 
-<p class="has-line-data" data-line-start="0" data-line-end="2">gora você é o administrador de um sistema Linux e precisa criar diretórios<br>
+<p class="has-line-data" data-line-start="0" data-line-end="2">Agora você é o administrador de um sistema Linux e precisa criar diretórios<br>
 HOME para os usuários cujos login names são os 10 primeiros nomes válidos iniciados por cada uma das letras do alfabeto. Os login names precisam ser extraídos das linhas do arquivo dado.</p>
 <p class="has-line-data" data-line-start="3" data-line-end="4">ATENÇÃO: o HOME desses usuários deve ser criado em /nobackup para não estourar a cota de vocês!!!</p>
 <p class="has-line-data" data-line-start="5" data-line-end="6">Notem que há linhas deste arquivo que contêm mais de um nome (se for o caso, somente o primeiro nome deve ser considerado), enquanto que há linhas que não possuem nome algum (neste caso, a linha inteira deve ser desconsiderada).</p>
