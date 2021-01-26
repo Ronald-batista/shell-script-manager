@@ -6,7 +6,7 @@
 #### ` chmod +x script.sh `
 
 #### Em seguida, execute
-#### `.\script.sh nomes.csv`
+#### `sudo .\script.sh nomes.csv`
 
 
 ## Enunciado completo do script
